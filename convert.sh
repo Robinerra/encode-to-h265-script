@@ -1,5 +1,6 @@
 #!/bin/bash
 # 2022 Elise Willar
+# Requires FFMPEG to be installed.
 
 #Replace with your directory
 directory=~/Desktop/files/
